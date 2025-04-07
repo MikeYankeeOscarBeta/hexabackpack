@@ -9,11 +9,13 @@ Included the mounts from: https://www.printables.com/model/558357-ft-ems-mounts-
 Draftshift Design Fannypack available here: https://github.com/DraftShift/CableManagement/tree/main/FannyPack
 
 ## Images
-Renders
+Renders  
+
 <img src="./images/hexabackpack_render_2.png" width="400"/>
 <img src="./images/hexabackpack_render_1.PNG" width="400"/>
 
-Pictures from N3MI
+Pictures from N3MI  
+
 <img src="./images/hexabackpack_n3mi_pic1.jpg" width="400"/>
 <img src="./images/hexabackpack_n3mi_pic2.jpg" width="400"/>
 
