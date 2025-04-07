@@ -11,6 +11,9 @@ Draftshift Design Fannypack available here: https://github.com/DraftShift/CableM
 
 <img src="./images/hexabackpack_render_2.png" width="400"/>
 <img src="./images/hexabackpack_render_1.PNG" width="400"/>
+<img src="./images/hexabackpack_n3mi_pic1.jpg" width="400"/>
+<img src="./images/hexabackpack_n3mi_pic2.jpg" width="400"/>
+
 
 ## Parts to print:
 - 1x Hexabackpack_Backplate_Wall.stl
