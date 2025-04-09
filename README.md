@@ -1,6 +1,5 @@
 # hexabackpack
-Hexabackpack - Spaghetti management backpack with Backpack With FT EMS Hexes to enable flexible and fully modular mounting.
-
+Hexabackpack - Spaghetti management backpack with Backpack with FT EMS Hexes to enable flexible and fully modular mounting.
 
 Inspired by DraftShift Design Fannypack and the excellent FT EMS mounting system by Fizzy's Tech.
 
