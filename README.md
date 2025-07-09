@@ -39,3 +39,4 @@ Pictures from N3MI
 | M3 Heatset Nut              | hexes     | 16         | M3 Heatset M3, 5mm OD, 4mm length |
 | 6x3 Countersunk N52 magnet   | wall+backplate | 16         | 6x3 Countersunk N52 magnet (optionally you can use normal 6x3 magents and glue them in) |
 | 2x8mm FHCS self-tapping screw | hexes     | 8         | 2x8mm FHCS countersunk screw (if not glueing magnets) |
+| 10mm 3M VHB double sided tape| attaching it to the back-panel    | 2m         | can use thicker or thinner vhb too, and cut with scissors |
