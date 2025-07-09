@@ -32,7 +32,7 @@ Pictures from N3MI
 1x https://github.com/DraftShift/CableManagement/blob/main/FannyPack/STLs/wire_duct/center_rear_skirt_90.stl
 
 
-## BOM per latch (need 6 latches in total):
+## BOM:
 | Part                        | for       | Amount    | Description|
 |-----------------------------|-----------|-----------|-|
 | M3x8 BHCS Screw             | hexes+lid     | 24         | M3 BHCS screw |
